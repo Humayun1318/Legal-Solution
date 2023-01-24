@@ -16,6 +16,10 @@ body {
   background: linear-gradient(180deg, #f3f3f3 0%, rgba(243, 243, 243, 0) 100%);
   border: 1px solid #e7e7e7;
 }
+.legal-sol-btn-ho-effect:hover{
+  background-color: #8eb65a;
+  
+}
 
 @media screen and (max-width: 576px){
   .banner-title{
@@ -23,6 +27,8 @@ body {
     font-weight: 400;
     width: 100%;
   }
+
   
 }
+
 
