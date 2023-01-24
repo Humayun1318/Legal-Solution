@@ -1,14 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Manrope&family=Open+Sans&family=Poppins:wght@500&family=Work+Sans:ital@0;1&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond&family=Manrope&family=Open+Sans&family=Poppins:wght@500&family=Work+Sans:ital@0;1&display=swap");
 
-body{
-    font-family: 'EB Garamond', serif;
+body {
+  font-family: "EB Garamond", serif;
 }
-.legal-sol-title-color{
-    color: #414040;
+.legal-sol-title-color {
+  color: #414040;
 }
-.legal-sol-title-des-color{
-    color: #707070;
+.legal-sol-title-des-color {
+  color: #707070;
 }
-.legal-sol-btn-bgc{
-    background-color: #b68c5a;
+.legal-sol-btn-bgc {
+  background-color: #b68c5a;
+}
+.legal-practice-gr-clr {
+  background: linear-gradient(180deg, #f3f3f3 0%, rgba(243, 243, 243, 0) 100%);
+  border: 1px solid #e7e7e7;
 }
